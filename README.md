@@ -1,7 +1,7 @@
 # Flutter-Day-2-Fruit-App-Layout
-Just another app screen I decided todo on my second day with Flutter. I decided to Write the layout code for the design I love most amongst the designss I found in this tweet: [HNG  Internship Designers design a fruit app. Which designer should win this competition? - @markessien  from Hotels.ng](https://twitter.com/markessien/status/1119659044468330497)
+Just another app screen I decided code on my second day with Flutter. I decided to write the layout code for the design I love most amongst the designs I found in this tweet: [HNG  Internship Designers design a fruit app. Which designer should win this competition? - @markessien  from Hotels.ng](https://twitter.com/markessien/status/1119659044468330497)
 
-## Screenshots
+# Screenshots
 
 ![Preview](screenshots/day-2-flutter_.gif)
 
