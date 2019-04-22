@@ -221,7 +221,7 @@ Widget notInstoreBadge = Container(
         children: <Widget>[
           Text('SUGGESTED FRUITS', style: factHeader),
           SizedBox(
-        height: 100,
+        height: 85,
         child: ListView(
           shrinkWrap: true,
           scrollDirection: Axis.horizontal,
