@@ -1,12 +1,9 @@
-# anchor
-
-A new Flutter project.
-
-## Getting Started
+# Flutter-Day-2-Fruit-App-Layout
+Just another app screen I decided todo on my second day with Flutter. I decided to Write the layout code for the design I love most amongst the designss I found in this tweet: [HNG  Internship Designers design a fruit app. Which designer should win this competition? - @markessien  from Hotels.ng](https://twitter.com/markessien/status/1119659044468330497)
 
 ## Screenshots
 
-![Preview](screenshots/day-2-flutter.gif)
+![Preview](screenshots/day-2-flutter_.gif)
 
 # License
 (c) Copyright 2019 Victor Aremu
